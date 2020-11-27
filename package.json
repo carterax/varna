@@ -1,0 +1,51 @@
+{
+  "name": "varna",
+  "version": "1.0.0",
+  "description": "Automated site viewer",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build --prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "@babel/register": "^7.9.0",
+    "autoprefixer": "^9.7.4",
+    "babel-loader": "^8.1.0",
+    "browser-sync": "^2.26.10",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.0.1",
+    "hard-source-webpack-plugin": "^0.13.1",
+    "path": "^0.12.7",
+    "vinyl-named": "^1.1.0",
+    "webpack-stream": "^5.2.1",
+    "yargs": "^15.3.1"
+  },
+  "dependencies": {
+    "grommet-icons": "^4.4.0",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.2",
+    "react": "^16.13.1",
+    "react-clipboard.js": "^2.0.16",
+    "react-dom": "^16.13.1",
+    "react-emoji-render": "^1.2.4",
+    "react-sortable-hoc": "^1.11.0",
+    "styled-components": "^5.1.0"
+  }
+}
