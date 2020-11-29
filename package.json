@@ -13,8 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/plugin-proposal-class-properties": "^7.8.3",
-    "@babel/plugin-proposal-decorators": "^7.8.3",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "@babel/register": "^7.9.0",
@@ -40,8 +38,6 @@
   "dependencies": {
     "bootstrap": "^4.5.3",
     "grommet-icons": "^4.4.0",
-    "mobx": "^5.15.4",
-    "mobx-react": "^6.2.2",
     "react": "^16.13.1",
     "react-clipboard.js": "^2.0.16",
     "react-dom": "^16.13.1",
