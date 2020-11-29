@@ -1,3 +1,10 @@
-import React, { Fragment } from 'react';
+import React from 'react';
+import { Header } from './components/header';
 
-export const App = () => <Fragment>Hello Fanta</Fragment>;
+export const App = () => {
+	return (
+		<React.StrictMode>
+			<Header />
+		</React.StrictMode>
+	);
+};

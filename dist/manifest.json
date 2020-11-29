@@ -4,7 +4,7 @@
   "name": "Varna",
   "version": "1.0",
 
-  "description": "Add a list of websites you can easily access by a simple click of a button",
+  "description": "Access multiple websites with the click of a button",
   "homepage_url": "https://github.com/carterax",
   "icons": {
     "48": "images/varna.svg",

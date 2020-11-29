@@ -38,6 +38,7 @@
     "yargs": "^15.3.1"
   },
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "grommet-icons": "^4.4.0",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
@@ -46,6 +47,7 @@
     "react-dom": "^16.13.1",
     "react-emoji-render": "^1.2.4",
     "react-sortable-hoc": "^1.11.0",
+    "reactstrap": "^8.7.1",
     "styled-components": "^5.1.0"
   }
 }
